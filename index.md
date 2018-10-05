@@ -1,3 +1,8 @@
+---
+layout: default
+title: Rachel Neville
+---
+
 ## Rachel A. Neville 
 
 Hello! I'm a postdoctoral researcher in the [math department](http://math.arizona.edu/) at the [University of Arizona](https://www.arizona.edu/), where I am studying **Applied Topology and Pattern Formation**. 
