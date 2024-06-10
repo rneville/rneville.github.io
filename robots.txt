@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rneville.github.io/sitemap.xml
+Sitemap: https://rneville.github.io/rneville/sitemap.xml
