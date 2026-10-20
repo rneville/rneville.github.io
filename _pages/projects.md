@@ -2,12 +2,22 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Selected projects in data analysis, modeling, and machine learning.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
 horizontal: false
 ---
+
+## Research theme
+
+Not every project fits under one umbrella, but two questions unify the thinking behind much of my work:
+
+- How can one efficiently characterize and compare spatiotemporally complex patterns?
+- How can changes in geometric and topological structure inform our understanding of the mechanisms driving the dynamics in a system or a partial differential equation (PDE) model?
+
+I study these questions by leveraging, refining, and extending topological techniques, namely persistent homology, in a number of different contexts.
+
+## Projects
 
 <!-- pages/projects.md -->
 <div class="projects">
