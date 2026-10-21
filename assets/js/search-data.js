@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-teaching",
+          title: "teaching",
+          description: "Fifteen years of teaching mathematics, from first-year calculus to graduate topics in topological data analysis.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/teaching/";
+          },
         },{id: "projects-aerodynamic-roughness-of-snow-surfaces",
           title: 'Aerodynamic roughness of snow surfaces',
           description: "Geometric techniques for estimating multi-scale, directional surface roughness from LiDAR data",
