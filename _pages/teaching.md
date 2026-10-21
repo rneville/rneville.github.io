@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 description: Fifteen years of teaching mathematics, from first-year calculus to graduate topics in topological data analysis.
-nav: false # set to true once the teaching page is filled in
+nav: true
 nav_order: 4
 ---
 
@@ -32,15 +32,9 @@ I rebuilt three core courses from the ground up around inquiry-based learning, f
 - **Differential Equations**
 - **Linear Algebra**
 
-<!-- TODO: add what changed and any outcomes (pass/DFW rates, student feedback) for each redesign. -->
-
 ### Featured courses
 
 **Applied Mathematics for Chemists I & II** (Colorado State University). Developed in close collaboration with chemistry faculty, this two-semester sequence teaches a variety of mathematical topics tailored specifically to chemistry applications, in particular physical chemistry. Building it meant working with chemistry faculty to identify the mathematics their students actually needed, then designing the course around those needs. We described the course in the _Journal of Chemical Education_: [Applied Mathematics for Chemistry Majors](https://doi.org/10.1021/acs.jchemed.8b00107) (2018).
-
-<!-- TODO: link the syllabus (Rachel is retrieving it), and expand the course description if desired. -->
-
-<!-- TODO: featured course: Advanced Topics in Mathematics: Topological Data Analysis (graduate). Need institution, term, a short description, and a syllabus if available. -->
 
 ### Programs and mentoring
 
@@ -48,5 +42,3 @@ I rebuilt three core courses from the ground up around inquiry-based learning, f
 - **Assistant Director, [PAC<sub>e</sub> Center](http://www.math.colostate.edu/PACe/Guide/guide_home.html)**, Colorado State University (January–December 2012). Supervised an undergraduate staff of tutors and proctors for a mixed online pre-calculus program with an on-campus learning and testing center, serving over 1,000 students per semester.
 - **Women in STEM Mentorship Project**, founding director.
 - **Student research mentoring:** honors projects in linear algebra and mathematical modeling teams.
-
-<!-- TODO: add a professional development section, including the year-long national teaching mentoring/development program. -->
