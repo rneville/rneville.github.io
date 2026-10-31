@@ -16,13 +16,38 @@ Over fifteen years at Colorado State University, the University of Arizona, and 
 
 ### Courses taught
 
-| Area                                      | Courses (times taught)                                                                                                       |
-| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Calculus**                              | Calculus I (8), Calculus II (2), Calculus for the Biological Sciences (2), Calculus Lab (1), Math in the Social Sciences (1) |
-| **Differential equations & applied math** | Differential Equations (9), Applied Mathematics for Chemists I & II (2 each), Applied Mathematics (graduate) (1)             |
-| **Linear algebra**                        | Linear Algebra (6)                                                                                                           |
-| **Proofs & pure mathematics**             | Discrete Mathematics (2), Foundations of Mathematics (2), Number Theory (1), Complex Analysis (1)                            |
-| **Topology & data analysis**              | Introduction to Applied Algebraic Topology (1), Advanced Topics in Mathematics: Topological Data Analysis (graduate) (1)     |
+Number of times taught in parentheses, from introductory to advanced.
+
+**Calculus**
+
+- Math in the Social Sciences (1)
+- Calculus Lab (1)
+- Calculus I (8)
+- Calculus II (2)
+- Calculus for the Biological Sciences (2)
+
+**Differential equations & applied math**
+
+- Differential Equations (9)
+- Applied Mathematics for Chemists I (2)
+- Applied Mathematics for Chemists II (2)
+- Applied Mathematics, graduate (1)
+
+**Linear algebra**
+
+- Linear Algebra (6)
+
+**Proofs & pure mathematics**
+
+- Discrete Mathematics (2)
+- Foundations of Mathematics (2)
+- Number Theory (1)
+- Complex Analysis (1)
+
+**Topology & data analysis**
+
+- Introduction to Applied Algebraic Topology (1)
+- Advanced Topics in Mathematics: Topological Data Analysis, graduate (1)
 
 ### Course redesigns
 
@@ -42,3 +67,9 @@ I rebuilt three core courses from the ground up around inquiry-based learning, f
 - **Assistant Director, [PAC<sub>e</sub> Center](http://www.math.colostate.edu/PACe/Guide/guide_home.html)**, Colorado State University (January–December 2012). Supervised an undergraduate staff of tutors and proctors for a mixed online pre-calculus program with an on-campus learning and testing center, serving over 1,000 students per semester.
 - **Women in STEM Mentorship Project**, founding director.
 - **Student research mentoring:** honors projects in linear algebra and mathematical modeling teams.
+
+### Professional development
+
+- **[MAA Project NExT](https://maa.org/maa-project-next/) Fellow** (New Experiences in Teaching), August 2021–August 2022. Project NExT is a year-long national program for early-career mathematics faculty, with three multi-day workshops and mentorship aimed at launching a successful career in teaching and research.
+- **University of Arizona Inclusive Leadership Cohort Certificate**, 2018–2019.
+- **[Academy of Inquiry Based Learning](https://www.inquirybasedlearning.org) workshop**, Chicago, IL, June 2018.
