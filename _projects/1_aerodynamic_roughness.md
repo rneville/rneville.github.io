@@ -3,7 +3,7 @@ layout: page
 title: Aerodynamic roughness of snow surfaces
 description: Geometric techniques for estimating multi-scale, directional surface roughness from LiDAR data
 img: assets/img/projects/aero_roughness_surface.png
-importance: 2
+importance: 3
 github: https://github.com/rneville/Z0-Lettau-LiDAR-Watershed
 ---
 

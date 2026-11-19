@@ -3,7 +3,7 @@ layout: page
 title: Persistence images
 description: A stable vector representation that makes topological features usable in standard machine-learning pipelines. 1,400+ citations.
 img: assets/img/projects/LT4-2_PI50_bump.png
-importance: 1
+importance: 2
 github: https://github.com/CSU-TDA/PersistenceImages
 ---
 
